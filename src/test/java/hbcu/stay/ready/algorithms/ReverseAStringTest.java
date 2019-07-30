@@ -16,7 +16,7 @@ public class ReverseAStringTest {
     @Test
     public void reverseAStringTest1(){
         String input = "I love Unit Testing";
-        String expected = "Gnitest Tniu Eovl I";
+        String expected = "Gnitset Tinu Evol I";
         String actual = reverseAString.reverseAString(input);
         Assert.assertEquals(expected, actual);
     }

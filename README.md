@@ -26,6 +26,6 @@ You have 45 mins ....
 
 **Sample Output**
 ```$xslt
-   output = Gnitest Tniu Eovl I
+   output = Gnitset Tinu Evol I
 ```
 
